@@ -1,0 +1,36 @@
+{
+    "name": "Naruto",
+    "theme": "theme-naruto",
+    "categories": {
+        "Персонажи": {
+            "description": "Ключевые фигуры мира шиноби.",
+            "items_url": "data/naruto/naruto_characters/characters.json"
+        },
+        "Деревни": {
+            "description": "Скрытые деревни шиноби.",
+            "items_url": "data/naruto/naruto_villages/villages.json"
+        },
+        "Организации": {
+            "description": "Группировки ниндзя.",
+            "items_url": "data/naruto/naruto_organizations/organizations.json"
+        },
+        "Техники": {
+            "subcategories": {
+                "Кеккей Генкай": {
+                    "items_url": "data/naruto/naruto_jutsu/jutsu_kekkei_genkai.json"
+                },
+                "Основные техники": {
+                    "items_url": "data/naruto/naruto_jutsu/jutsu_basic.json"
+                }
+            }
+        },
+        "Оружие": {
+            "description": "Легендарное и стандартное оружие.",
+            "items_url": "data/naruto/naruto_weapons/weapons.json"
+        },
+        "Женские персонажи": {
+            "description": "Выдающиеся куноичи.",
+            "items_url": "data/naruto/naruto_women.json"
+        }
+    }
+}

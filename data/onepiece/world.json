@@ -1,0 +1,62 @@
+{
+    "name": "One Piece",
+    "theme": "theme-onepiece",
+    "categories": {
+        "Персонажи и Команды": {
+            "subcategories": {
+                "Пираты": {
+                    "items_url": "data/onepiece/onepiece_characters/characters_pirates.json"
+                },
+                "Ёнко": {
+                    "items_url": "data/onepiece/onepiece_characters/characters_yonko.json"
+                },
+                "Дозор": {
+                    "items_url": "data/onepiece/onepiece_characters/characters_marines.json"
+                }
+            }
+        },
+        "Силы и Оружие": {
+            "subcategories": {
+                "Дьявольские фрукты": {
+                    "items_url": "data/onepiece/onepiece_powers/powers_devil_fruits.json"
+                },
+                "Хаки (Воля)": {
+                    "items_url": "data/onepiece/onepiece_powers/powers_haki.json"
+                },
+                "Уникальные способности": {
+                    "items_url": "data/onepiece/onepiece_powers/powers_unique.json"
+                },
+                "Мечи": {
+                    "items_url": "data/onepiece/onepiece_powers/powers_swords.json"
+                }
+            }
+        },
+        "Организации": {
+            "subcategories": {
+                "Мировое Правительство": {
+                    "items_url": "data/onepiece/onepiece_orgs/orgs_world_government.json"
+                },
+                "Революционная армия": {
+                    "items_url": "data/onepiece/onepiece_orgs/orgs_revolutionary_army.json"
+                }
+            }
+        },
+        "Мир": {
+            "subcategories": {
+                "Локации/Места": {
+                    "items_url": "data/onepiece/onepiece_world/world_locations.json"
+                },
+                "Расы": {
+                    "items_url": "data/onepiece/onepiece_world/world_races.json"
+                },
+                "Сокровища/Артефакты": {
+                    "items_url": "data/onepiece/onepiece_world/world_treasures.json"
+                }
+            }
+        },
+        "Женские персонажи": {
+            "description": "Выдающиеся женские персонажи",
+            "items_url": "data/onepiece/onepiece_women.json"
+        }
+    }
+}

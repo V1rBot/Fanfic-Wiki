@@ -1,0 +1,13 @@
+[{
+        "name": "Dr. Sophia Light",
+        "summary": "Head of the Psychology Department.",
+        "full_data": "Dr. Sophia Light is a respected researcher and the head of the Psychology Department at Site-19. She is known for her calm and professional demeanor, and her work is crucial for understanding the psychological effects of SCP objects.",
+        "sidebar": {
+            "image": "",
+            "fields": {
+                "Status": "Alive",
+                "Specialization": "Psychology"
+            }
+        }
+    }
+]

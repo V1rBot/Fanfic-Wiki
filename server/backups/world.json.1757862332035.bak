@@ -1,0 +1,10 @@
+{
+    "name": "Sad",
+    "theme": "theme-default",
+    "categories": {
+        "Женские персонажи": {
+            "description": "Все женские персонажи.",
+            "items_url": "data/sad/sad_women.json"
+        }
+    }
+}

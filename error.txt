@@ -1,0 +1,87 @@
+localhost/:1 [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) <input type=​"password" id=​"editor-password-input" placeholder=​"Введите пароль" wfd-id=​"id1">​
+:3103/favicon.ico:1  Failed to load resource: the server responded with a status of 404 (Not Found)
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 Object
+script.js:1147 buildTree: level=1, parent key count=10 Object
+script.js:1147 buildTree: level=1, parent key count=1 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=2, parent key count=2 Object
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: Object
+script.js:1301 Object
+script.js:1311 newCollection: Object
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 Object
+script.js:1147 buildTree: level=1, parent key count=10 Object
+script.js:1147 buildTree: level=1, parent key count=1 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=2, parent key count=2 Object
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: Object
+script.js:1301 Object
+script.js:1311 newCollection: Object
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 Object
+script.js:1147 buildTree: level=1, parent key count=10 Object
+script.js:1147 buildTree: level=1, parent key count=1 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=2, parent key count=2 Object
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: Object
+script.js:1301 Object
+script.js:1311 newCollection: Object
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 Object
+script.js:1147 buildTree: level=1, parent key count=10 Object
+script.js:1147 buildTree: level=1, parent key count=1 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=2, parent key count=2 Object
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: Object
+script.js:1301 Object
+script.js:1311 newCollection: Object
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 Object
+script.js:1147 buildTree: level=1, parent key count=10 Object
+script.js:1147 buildTree: level=1, parent key count=1 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=1, parent key count=3 Object
+script.js:1147 buildTree: level=2, parent key count=2 Object
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: {parentCollection: {…}}
+script.js:1301 {currentIndex: 0, newIndex: 1}
+script.js:1311 newCollection: {newCollection: {…}}
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=10 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=1 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=3 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=3 {parentCollection: {…}}
+script.js:1147 buildTree: level=2, parent key count=2 {parentCollection: {…}}
+script.js:1293 --- moveCategory (direction: 1) ---
+script.js:1294 item key: 2
+script.js:1295 item level: 2
+script.js:1296 parentCollection: {parentCollection: {…}}
+script.js:1301 {currentIndex: 0, newIndex: 1}
+script.js:1311 newCollection: {newCollection: {…}}
+script.js:1115 --- renderCategoryTree START ---
+script.js:1147 buildTree: level=0, parent key count=5 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=10 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=1 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=3 {parentCollection: {…}}
+script.js:1147 buildTree: level=1, parent key count=3 {parentCollection: {…}}
+script.js:1147 buildTree: level=2, parent key count=2 {parentCollection: {…}}

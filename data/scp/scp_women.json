@@ -1,0 +1,29 @@
+[{
+        "name": "SCP-105 (Айрис)",
+        "summary": "Женщина, которая может манипулировать фотографиями.",
+        "full_data": "SCP-105, также известная как Айрис Томпсон, — это женщина, которая обладает способностью проникать в фотографии и манипулировать объектами внутри них. Она была членом Мобильной оперативной группы Альфа-9 («Последняя надежда»).",
+        "sidebar": {
+            "images": [
+                "images/scp/scp_objects/SCP_049.jpg",
+                "images/bg/bg-scp2.jpeg"
+            ],
+            "fields": {
+                "Класс": "Евклид",
+                "Тип": "Гуманоид",
+                "Способность": "Манипуляция фотографиями"
+            }
+        }
+    },
+    {
+        "name": "Dr. Sophia Light",
+        "summary": "Head of the Psychology Department.",
+        "full_data": "Dr. Sophia Light is a respected researcher and the head of the Psychology Department at Site-19. She is known for her calm and professional demeanor, and her work is crucial for understanding the psychological effects of SCP objects.",
+        "sidebar": {
+            "image": "",
+            "fields": {
+                "Status": "Alive",
+                "Specialization": "Psychology"
+            }
+        }
+    }
+]

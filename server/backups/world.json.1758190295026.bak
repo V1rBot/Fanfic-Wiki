@@ -1,0 +1,50 @@
+{
+    "name": "Marvel",
+    "theme": "theme-marvel",
+    "categories": {
+        "Персонажи": {
+            "subcategories": {
+                "Герои": {
+                    "description": "Защитники Земли и космоса.",
+                    "items_url": "data/marvel/marvel_characters/characters_heroes.json"
+                },
+                "Злодеи": {
+                    "description": "Противники героев.",
+                    "items_url": "data/marvel/marvel_characters/characters_villains.json"
+                }
+            }
+        },
+        "Силы и Способности": {
+            "description": "Источники сверхчеловеческих возможностей.",
+            "items_url": "data/marvel/marvel_powers_abilities/powers.json"
+        },
+        "Артефакты и Технологии": {
+            "description": "Предметы и устройства невероятной мощи.",
+            "items_url": "data/marvel/marvel_artifacts_technologies/artifacts.json"
+        },
+        "Организации": {
+            "subcategories": {
+                "Героические": {
+                    "description": "Организации, стоящие на страже добра.",
+                    "items_url": "data/marvel/marvel_organizations/heroic.json"
+                },
+                "Злодейские": {
+                    "description": "Организации, стремящиеся к власти и разрушению.",
+                    "items_url": "data/marvel/marvel_organizations/villainous.json"
+                },
+                "Нейтральные": {
+                    "description": "Организации, преследующие свои собственные цели.",
+                    "items_url": "data/marvel/marvel_organizations/neutral.json"
+                }
+            }
+        },
+        "Расы": {
+            "description": "Различные цивилизации вселенной.",
+            "items_url": "data/marvel/marvel_races/races.json"
+        },
+        "Женские персонажи": {
+            "description": "Сильнейшие героини и злодейки.",
+            "items_url": "data/marvel/marvel_women.json"
+        }
+    }
+}

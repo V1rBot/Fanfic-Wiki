@@ -1,0 +1,66 @@
+{
+    "name": "Bleach",
+    "theme": "theme-bleach",
+    "categories": {
+        "Персонажи": {
+            "description": "Жители и воины разных миров.",
+            "items_url": "data/bleach/bleach_characters/characters.json"
+        },
+        "Расы и Миры": {
+            "subcategories": {
+                "Расы": {
+                    "items_url": "data/bleach/bleach_races_worlds/races.json"
+                },
+                "Миры": {
+                    "items_url": "data/bleach/bleach_races_worlds/worlds.json"
+                }
+            }
+        },
+        "Оружие и Артефакты": {
+            "subcategories": {
+                "Дзанпакто": {
+                    "items_url": "data/bleach/bleach_weapons_artifacts/zanpakuto.json"
+                },
+                "Артефакты": {
+                    "items_url": "data/bleach/bleach_weapons_artifacts/artifacts.json"
+                }
+            }
+        },
+        "Организации": {
+            "description": "Ключевые группировки.",
+            "items_url": "data/bleach/bleach_organizations/organizations.json"
+        },
+        "Умения": {
+            "subcategories": {
+                "Зандзюцу": {
+                    "description": "Искусство владения мечом.",
+                    "items_url": "data/bleach/bleach_skills/skills_zanjutsu.json"
+                },
+                "Hohō": {
+                    "description": "Техники быстрого перемещения.",
+                    "items_url": "data/bleach/bleach_skills/skills_hoho.json"
+                },
+                "Кидо": {
+                    "description": "Демоническая магия.",
+                    "items_url": "data/bleach/bleach_skills/skills_kido.json"
+                },
+                "Хакуда": {
+                    "description": "Рукопашный бой.",
+                    "items_url": "data/bleach/bleach_skills/skills_hakuda.json"
+                },
+                "Способности Куинси": {
+                    "description": "Техники расы Куинси.",
+                    "items_url": "data/bleach/bleach_skills/skills_quincy.json"
+                },
+                "Способности Арранкар": {
+                    "description": "Техники пустых.",
+                    "items_url": "data/bleach/bleach_skills/skills_arrancar.json"
+                }
+            }
+        },
+        "Женские персонажи": {
+            "description": "Сильные героини всех рас.",
+            "items_url": "data/bleach/bleach_women.json"
+        }
+    }
+}

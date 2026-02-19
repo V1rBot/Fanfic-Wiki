@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Железный человек",
+        "summary": "Гений, миллиардер...",
+        "full_data": "Энтони \"Тони\" Старк, гениальный изобретатель, создавший высокотехнологичный бронекостюм. Основатель Мстителей.",
+        "sidebar": {
+            "image": "images/marvel/marvel_characters/marvel_ironman.jpg",
+            "images": [
+                "images/marvel/marvel_characters/marvel_ironman.jpg",
+                "images/marvel/marvel_characters/marvel_ironman_0.jpg",
+                "images/marvel/marvel_characters/marvel_ironman_1.jpg"
+            ],
+            "fields": {
+                "Полное имя": "Энтони Эдвард Старк",
+                "Раса": "Человек",
+                "Пол": "Мужской",
+                "Организация": "Мстители, Stark Industries"
+            }
+        }
+    }
+]

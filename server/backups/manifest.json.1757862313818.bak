@@ -1,0 +1,40 @@
+{
+    "worlds": [
+        {
+            "id": "scp",
+            "path": "data/scp/world.json"
+        },
+        {
+            "id": "marvel",
+            "path": "data/marvel/world.json"
+        },
+        {
+            "id": "hp",
+            "path": "data/hp/world.json"
+        },
+        {
+            "id": "onepiece",
+            "path": "data/onepiece/world.json"
+        },
+        {
+            "id": "naruto",
+            "path": "data/naruto/world.json"
+        },
+        {
+            "id": "bleach",
+            "path": "data/bleach/world.json"
+        },
+        {
+            "id": "jackie_chan_adventures",
+            "path": "data/jackie_chan_adventures/world.json"
+        },
+        {
+            "id": "kim_possible",
+            "path": "data/kim_possible/world.json"
+        },
+        {
+            "id": "dc",
+            "path": "data/dc/world.json"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Ким 5 с плюсом",
+    "theme": "theme-kim-possible",
+    "categories": {
+        "Персонажи": {
+            "subcategories": {
+                "Герои": {
+                    "description": "Главные герои, которые борются со злом.",
+                    "items_url": "data/kim_possible/kim_possible_characters/heroes.json"
+                },
+                "Злодеи": {
+                    "description": "Главные антагонисты и их приспешники.",
+                    "items_url": "data/kim_possible/kim_possible_characters/villains.json"
+                },
+                "Второстепенные": {
+                    "description": "Друзья, семья и другие персонажи.",
+                    "items_url": "data/kim_possible/kim_possible_characters/side_characters.json"
+                }
+            }
+        },
+        "Гаджеты": {
+            "description": "Устройства, используемые Ким и другими персонажами.",
+            "items_url": "data/kim_possible/kim_possible_gadgets/gadgets.json"
+        },
+        "Локации": {
+            "description": "Места, где происходят события мультсериала.",
+            "items_url": "data/kim_possible/kim_possible_locations/locations.json"
+        },
+        "Женские персонажи": {
+            "description": "Женские персонажи из мира Ким 5 с плюсом.",
+            "items_url": "data/kim_possible/kim_possible_women.json"
+        }
+    }
+}

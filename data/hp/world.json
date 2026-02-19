@@ -1,0 +1,36 @@
+{
+    "name": "Harry Potter",
+    "theme": "theme-hp",
+    "categories": {
+        "Персонажи": {
+            "subcategories": {
+                "Волшебники": {
+                    "items_url": "data/hp/hp_characters/characters_wizards.json"
+                },
+                "Семьи": {
+                    "items_url": "data/hp/hp_characters/characters_families.json"
+                }
+            }
+        },
+        "Магия": {
+            "description": "Различные виды волшебства.",
+            "items_url": "data/hp/hp_magic/magic.json"
+        },
+        "Предметы": {
+            "description": "Волшебные артефакты и объекты.",
+            "items_url": "data/hp/hp_items/items.json"
+        },
+        "Существа": {
+            "description": "Магические животные и создания.",
+            "items_url": "data/hp/hp_creatures/creatures.json"
+        },
+        "Локации": {
+            "description": "Места в волшебном мире.",
+            "items_url": "data/hp/hp_locations/locations.json"
+        },
+        "Женские персонажи": {
+            "description": "Женские персонажи волшебного мира.",
+            "items_url": "data/hp/hp_women.json"
+        }
+    }
+}

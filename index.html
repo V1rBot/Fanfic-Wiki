@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All-Word</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Модальное окно выбора мира -->
+    <div id="world-switcher-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <h2>Выбор вселенной</h2>
+            <div id="modal-world-list" class="modal-world-list">
+                <!-- Кнопки миров будут вставлены сюда через JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Основной интерфейс -->
+    <div class="container">
+        <header class="main-header">
+            <button id="mobile-menu-btn" class="mobile-only-button">&#9776;</button>
+            <h1 id="logo" class="logo" title="Сменить вселенную">ALL-WORD</h1>
+            <div class="header-spacer"></div> <!-- V9: Распорка для центрирования логотипа на мобильных -->
+        </header>
+
+        <main id="main-content">
+            <section id="wiki-mode" class="view active-view">
+                <div class="wiki-layout">
+                    <div id="category-list" class="category-panel"></div>
+                    <div id="item-display" class="item-panel"></div>
+                </div>
+            </section>
+
+            <section id="game-mode" class="view">
+                <div class="item-panel">
+                    <div class="item-panel-content">
+                        <h2>Режим Игры</h2>
+                        <p>Игровой режим находится в разработке. Возвращайтесь позже, оперативник.</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Переключатель режимов -->
+        <div class="mode-switcher">
+            <input type="checkbox" id="mode-toggle" class="toggle-checkbox" checked>
+            <label for="mode-toggle" class="toggle-label">Игра</label>
+            <label for="mode-toggle" class="toggle-slider"></label>
+            <label for="mode-toggle" class="toggle-label">Вики</label>
+        </div>
+    </div>
+
+    <!-- Editor Mode -->
+    <div id="editor-password-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <h2>Вход в режим редактора</h2>
+            <input type="password" id="editor-password-input" placeholder="Введите пароль">
+            <button id="editor-password-submit">Войти</button>
+            <p id="editor-password-error" class="error-message hidden">Неверный пароль</p>
+        </div>
+    </div>
+
+    <div id="editor-container" class="hidden">
+        <div class="editor-header">
+            <h2>Режим Редактора</h2>
+            <button id="editor-close-btn">Выйти</button>
+        </div>
+        <div id="editor-main-panel">
+            <!-- The main editor UI will be built here -->
+        </div>
+    </div>
+
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

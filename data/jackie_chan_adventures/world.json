@@ -1,0 +1,38 @@
+{
+    "name": "Приключения Джеки Чана",
+    "theme": "theme-jackie-chan",
+    "categories": {
+        "Персонажи": {
+            "subcategories": {
+                "Команда Джеки": {
+                    "description": "Джеки, его семья и союзники.",
+                    "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_characters/j_team.json"
+                },
+                "Злодеи": {
+                    "description": "Демоны, преступники и другие антагонисты.",
+                    "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_characters/villains.json"
+                },
+                "13-й отдел": {
+                    "description": "Сотрудники секретной организации.",
+                    "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_characters/section_13_members.json"
+                }
+            }
+        },
+        "Талисманы": {
+            "description": "Двенадцать талисманов с магическими свойствами.",
+            "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_talismans/talismans.json"
+        },
+        "Демоны": {
+            "description": "Древние демоны, запечатанные в преисподней.",
+            "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_demons/demons.json"
+        },
+        "Организации": {
+            "description": "Различные группировки, влияющие на мир.",
+            "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_organizations/organizations.json"
+        },
+        "Женские персонажи": {
+            "description": "Женские персонажи из мира Приключений Джеки Чана.",
+            "items_url": "data/jackie_chan_adventures/jackie_chan_adventures_women.json"
+        }
+    }
+}

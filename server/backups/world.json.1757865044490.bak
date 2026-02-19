@@ -1,0 +1,10 @@
+{
+    "name": "Dc",
+    "theme": "theme-scp",
+    "categories": {
+        "Женские персонажи": {
+            "description": "Все женские персонажи.",
+            "items_url": "data/dc/dc_women.json"
+        }
+    }
+}
